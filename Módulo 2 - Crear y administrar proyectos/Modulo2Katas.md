@@ -4,6 +4,8 @@ En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para
 
 *Para este ejercicio es necesario que lo ejecutes desde la terminal, línea de comandos, cmd, consola, cli, etc. de tu computadora, sé que es desafíante, pero no te preocupes ¡¡Sé que puedes lograrlo!!*
 
+![](../images/EntornoVirtualPython-alcortes.dev.gif)
+
 ## Crear un entorno virtual
 
 Crea un entorno virtual mediante ``venv``
